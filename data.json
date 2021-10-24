@@ -1,0 +1,49 @@
+{
+  "productos": [
+    {
+      "id": 3,
+      "nombre": "mango",
+      "precio": "500"
+    },
+    {
+      "id": 4,
+      "nombre": "avena",
+      "precio": "10000"
+    },
+    {
+      "id": 5,
+      "nombre": "avena",
+      "precio": "10000"
+    },
+    {
+      "id": 6,
+      "nombre": "avena",
+      "precio": "10000"
+    },
+    {
+      "nombre": "vv",
+      "precio": "611",
+      "id": 9
+    },
+    {
+      "nombre": "Alfredo",
+      "precio": 22,
+      "id": 10
+    },
+    {
+      "nombre": "alfredo jose ",
+      "precio": 218,
+      "id": 11
+    },
+    {
+      "nombre": "ayaca",
+      "precio": 6000,
+      "id": 12
+    },
+    {
+      "nombre": "gol",
+      "precio": 1000,
+      "id": 13
+    }
+  ]
+}
